@@ -1,0 +1,28 @@
+Please download following Python-3.7 packages using command prompt 
+before running the program.
+
+step 1: Open command prompt as administrator.
+step 2: Type "pip install <Package Name>"
+
+Packages:
+
+1. pytesseract
+2. opencv
+3. easygui
+4. time
+5. os
+6. hashlib
+7. sys
+8. pillow
+9. numpy
+
+for example:
+ 	      1. "pip install pytesseract"
+	      2. "pip install opencv-python"
+	      3. "pip install easygui"
+	      4. "pip install hashlib"
+
+
+Note* : Make sure the location or path in the program must be set to your local drive path.
+
+Good_luck();
